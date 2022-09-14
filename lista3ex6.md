@@ -1,6 +1,7 @@
 # lista-3
 PUCRS Fundamentos  de programação
-import java.util.Scanner;
+
+
 
 public class lista3ex6
 {
